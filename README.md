@@ -1,6 +1,3 @@
-Aquí tienes el texto convertido y formateado en **Markdown limpio**, listo para pegar directamente en un **README.md** de GitHub:
-
-```markdown
 # 🚀 Sistema Web para la Detección de Impactos de Bala mediante Deep Learning  
 **Tesis para optar el Título Profesional de Ingeniero de Sistemas (2024)**
 
@@ -51,4 +48,3 @@ Según el caso, podría requerirse la firma de un **Acuerdo de No Divulgación (
 
 Gracias por su interés en este proyecto.  
 Fomentamos la colaboración académica mientras mantenemos la responsabilidad sobre la información institucional.
-```
